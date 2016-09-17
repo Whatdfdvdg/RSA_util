@@ -1,4 +1,3 @@
-package com.qunar.flight.report.util;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
@@ -104,7 +103,6 @@ public class RSAUtil {
 
 
 获得密钥根据Base64加密后的String
-package com.qunar.flight.report.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -243,7 +241,6 @@ public class RSAUtil {
 
     }
 
-package com.qunar.flight.report.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
